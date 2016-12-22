@@ -1,0 +1,13 @@
+C:\DIGICODE\AT\888\PC_Rul\PC_Rul\obj\Debug\PC_Rul.csprojResolveAssemblyReference.cache
+C:\DIGICODE\AT\888\PC_Rul\PC_Rul\bin\Debug\PC_Rul.dll
+C:\DIGICODE\AT\888\PC_Rul\PC_Rul\bin\Debug\PC_Rul.pdb
+C:\DIGICODE\AT\888\PC_Rul\PC_Rul\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\DIGICODE\AT\888\PC_Rul\PC_Rul\bin\Debug\nunit.framework.dll
+C:\DIGICODE\AT\888\PC_Rul\PC_Rul\bin\Debug\WebDriver.dll
+C:\DIGICODE\AT\888\PC_Rul\PC_Rul\bin\Debug\WebDriver.Support.dll
+C:\DIGICODE\AT\888\PC_Rul\PC_Rul\bin\Debug\nunit.framework.xml
+C:\DIGICODE\AT\888\PC_Rul\PC_Rul\bin\Debug\WebDriver.xml
+C:\DIGICODE\AT\888\PC_Rul\PC_Rul\bin\Debug\WebDriver.Support.xml
+C:\DIGICODE\AT\888\PC_Rul\PC_Rul\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\DIGICODE\AT\888\PC_Rul\PC_Rul\obj\Debug\PC_Rul.dll
+C:\DIGICODE\AT\888\PC_Rul\PC_Rul\obj\Debug\PC_Rul.pdb
